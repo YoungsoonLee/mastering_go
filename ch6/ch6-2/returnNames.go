@@ -10,5 +10,8 @@ func namedMinMax(x, y int) (min, max int) {
 	}
 
 	return
+}
+
+func main() {
 
 }
